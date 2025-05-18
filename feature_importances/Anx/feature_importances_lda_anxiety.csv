@@ -1,0 +1,21 @@
+importance,feature,model
+-0.002603488674824317,Generic/Time References,LDA
+-0.010049466284821684,General English Usage,LDA
+-0.008227024212444723,Personal Pronouns & Expressions,LDA
+-0.021244467586566063,Missing & Absence,LDA
+0.0003644884144753613,Common Connectives & Contractions,LDA
+-0.0047904191616767065,Modal Verbs & Ability,LDA
+-0.019474095287685556,General Pronouns,LDA
+-0.0007810466024473328,Social Media Updates,LDA
+-0.0007289768289508558,Personal Expressions,LDA
+-0.0006769070554543566,Mental Health,LDA
+-0.004269721426711848,Informal Chat & Negation,LDA
+0.0006769070554542677,Depression & Anxiety,LDA
+-0.0010934652434262614,Quotes & Morning Greetings,LDA
+-0.021661025774537924,Emotions & Feelings,LDA
+-0.011871908357198691,Storytelling & Past Tense,LDA
+-0.0011455350169227384,Missing & Longing,LDA
+-0.00921634990887794,Books & Reading,LDA
+-0.01603749023691752,Illness & Health,LDA
+0.0012496745639156038,Comfort & Support,LDA
+0.0004165581879718383,Slang & Informal Speech,LDA

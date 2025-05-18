@@ -1,0 +1,21 @@
+feature,importance,std_error
+Common Pronouns & Connectives,0.38403361344537823,0.005010842915651846
+Fashion & Sneakers,0.0088558500323207,0.0005048642324438673
+Common Stopwords & Misc,0.0046541693600518075,0.001149087836757021
+Mental Health & Economy,0.0020038784744668137,0.00034810373672491826
+Italy Earthquake & News,0.0006464124111182912,0.0
+Twitter & Social Media,0.00045248868778282605,0.0005048642324439041
+Physical Illness & Symptoms,0.0003232062055591567,0.0005211543470134997
+HTML Entities & Generic Terms,0.0003232062055591456,0.0003232062055591456
+Sleep & Rest,0.0003232062055591456,0.0003232062055591456
+TV Shows & Episodes,0.00012928248222365823,0.00025856496444731647
+Books & Reading,0.0,0.0
+Image Uploads & Files,0.0,0.0
+Football Personalities,0.0,0.0
+Pets & Animals,0.0,0.0
+Music & Media,0.0,0.0
+French Language & Prepositions,0.0,0.0
+Weather,0.0,0.0
+Interpersonal Communication,0.0,0.0
+Education & School,0.0,0.0
+Questions & Understanding,0.0,0.0

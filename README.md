@@ -1,1 +1,2 @@
 # SocCultExam
+## This repository holds the code behind Sofia & Sissel's SocCult exam. It includes a ipnyb file with all the code, the data used for the project, and folders with topics, feature importances, and correlations between features. 

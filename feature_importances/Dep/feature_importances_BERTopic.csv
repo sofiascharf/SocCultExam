@@ -1,21 +1,21 @@
 feature,importance,std_error
-Common Pronouns & Connectives,0.38403361344537823,0.005010842915651846
-Fashion & Sneakers,0.0088558500323207,0.0005048642324438673
-Common Stopwords & Misc,0.0046541693600518075,0.001149087836757021
-Mental Health & Economy,0.0020038784744668137,0.00034810373672491826
-Italy Earthquake & News,0.0006464124111182912,0.0
-Twitter & Social Media,0.00045248868778282605,0.0005048642324439041
-Physical Illness & Symptoms,0.0003232062055591567,0.0005211543470134997
-HTML Entities & Generic Terms,0.0003232062055591456,0.0003232062055591456
-Sleep & Rest,0.0003232062055591456,0.0003232062055591456
-TV Shows & Episodes,0.00012928248222365823,0.00025856496444731647
-Books & Reading,0.0,0.0
-Image Uploads & Files,0.0,0.0
-Football Personalities,0.0,0.0
+Pronouns & Function Words,0.4063348416289593,0.006051469806577093
+French Articles & Fragments,0.00879120879120876,0.0005924467608216966
+Stopwords & Common Tokens,0.0052359405300581585,0.0007341833672657083
+Socioeconomic & Mental Health,0.0014867485455720697,0.0004139058977008937
+Football Personalities,0.0012928248222365823,0.0
+Sleep & Rest,0.0006464124111182912,0.00040882710538699005
+Social Media & Mobile Tech,0.00025856496444731647,0.0003166761141283994
+Generic Discourse & Quotations,0.00019392372333548735,0.0002962233804108483
+Weather & Nature,0.00012928248222365823,0.00025856496444731647
+Websites & Uploads,6.464124111182912e-05,0.00019392372333548738
+Internet Slang & Fillers,0.0,0.0
+Questions & Gratitude,0.0,0.0
+Current Events (Italy/Earthquake),0.0,0.0
 Pets & Animals,0.0,0.0
-Music & Media,0.0,0.0
-French Language & Prepositions,0.0,0.0
-Weather,0.0,0.0
-Interpersonal Communication,0.0,0.0
-Education & School,0.0,0.0
-Questions & Understanding,0.0,0.0
+Fashion & Apparel,0.0,0.0
+Calendars & Events,0.0,0.0
+Affection & Social Support,0.0,0.0
+Transportation & Commute,0.0,0.0
+Books & Reading,0.0,0.0
+Education & Schoolwork,-0.00012928248222365823,0.00025856496444731647

@@ -1,0 +1,21 @@
+importance,feature,model
+0.0016662327518875309,Assault & Violence,S3
+0.003696953918250467,Mental Health Conditions,S3
+-0.00020827909398593025,Loneliness & Mood,S3
+0.00015620932048947543,Abuse & Therapy,S3
+0.00020827909398595245,Adverbs & Modifiers,S3
+-0.0014058838844051014,Curiosity & Frequency,S3
+0.0016662327518875753,Family & Parenting,S3
+-0.006560791460557147,Anxiety & Fear,S3
+0.0005727675084613582,Gender & Appearance,S3
+-0.008956001041395467,Media & Downloads,S3
+-0.002655558448320705,Sleep & Rest,S3
+0.0007810466024472884,Entertainment & Celebrities,S3
+0.0013017443374121473,Psychiatric Medications,S3
+0.0011455350169226942,Depression & Mood Disorders,S3
+0.0009372559229367417,Socializing & Introversion,S3
+0.003384535277271561,Satisfaction & Workplace,S3
+0.0014579536579016228,Healthcare & Assistance,S3
+0.0012496745639156703,Social Media Platforms,S3
+0.0019786513928664374,Physical Illness & Symptoms,S3
+0.0008331163759437877,French Language & Stopwords,S3

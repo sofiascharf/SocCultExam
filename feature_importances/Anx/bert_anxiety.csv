@@ -1,0 +1,21 @@
+importance,feature,model
+0.0,Stopwords & Common Tokens,BERTopic
+0.0,Pronouns & Function Words,BERTopic
+0.0,Sleep & Rest,BERTopic
+0.0,Generic Discourse & Quotations,BERTopic
+0.0,Education & Schoolwork,BERTopic
+0.0,Social Media & Mobile Tech,BERTopic
+0.0,Websites & Uploads,BERTopic
+0.0,Transportation & Commute,BERTopic
+0.0,Weather & Nature,BERTopic
+0.0,French Articles & Fragments,BERTopic
+0.0,Pets & Animals,BERTopic
+0.0,Affection & Social Support,BERTopic
+0.0,Calendars & Events,BERTopic
+0.0,Fashion & Apparel,BERTopic
+0.0,Internet Slang & Fillers,BERTopic
+0.0,Football Personalities,BERTopic
+0.0,Current Events (Italy/Earthquake),BERTopic
+0.0,Socioeconomic & Mental Health,BERTopic
+0.0,Questions & Gratitude,BERTopic
+0.0,Books & Reading,BERTopic
